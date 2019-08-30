@@ -6,7 +6,7 @@ baseURL: 'https://cstate.mnts.lt'
 params:
   alwaysKeepBrandColor: true
   autoRefresh: true
-  brand: 0a0c0f
+  brand: 9de046
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
@@ -15,7 +15,7 @@ params:
   down: e60000
   googleAnalytics: UA-00000000-1
   incidentPostsPerPage: 10
-  logo: /img/download.jpg
+  logo: /img/512x512bb.png
   notice: 24478f
   ok: 008000
   shortDateFormat: '15:04 — Jan 2'
