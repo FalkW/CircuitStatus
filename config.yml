@@ -19,7 +19,8 @@ params:
   notice: 24478f
   ok: 008000
   shortDateFormat: '15:04 — Jan 2'
-  systems: []
+  systems:
+    - name: EU System
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
